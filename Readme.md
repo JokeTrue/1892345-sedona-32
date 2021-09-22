@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Павел Петров](https://up.htmlacademy.ru/htmlcss/32/user/1892345).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Сигов](https://htmlacademy.ru/profile/crazer).
 
 ---
 
