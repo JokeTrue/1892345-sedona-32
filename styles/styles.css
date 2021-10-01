@@ -1,0 +1,23 @@
+
+
+/* Index Page */
+
+.main-background {
+  width: auto;
+  height: 485px;
+  background: url("../images/index/welcome-bg.jpeg") no-repeat;
+}
+
+.subscribe {
+  width: auto;
+  height: 411px;
+  background: url("../images/index/subscribe-bg.jpeg") no-repeat;
+}
+
+/* Catalog Page */
+
+.filters {
+  width: auto;
+  height: 408px;
+  background: url("../images/catalog/filters-bg.jpeg") no-repeat;
+}
